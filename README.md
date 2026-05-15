@@ -19,9 +19,6 @@
   <a href="https://leetcode.com/u/tidha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://404soulnotfound.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=404soulnotfound&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" />
 </div>
 <br/>
