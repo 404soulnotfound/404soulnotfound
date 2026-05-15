@@ -34,7 +34,7 @@ class Soumili:
     name       = "Soumili Pal"
     university = "VIT Bhopal — BTech CSE (AI & ML) | 3rd Year"
     interests  = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
-    currently  = "Contributing to GirlScript Summer of Code 2025 🌸"
+    currently  = "Contributing to GirlScript Summer of Code 2026 🌸"
     looking_for = "Internships & Open Source Collaborations"
     fun_fact   = "I debug code better with Bollywood playing 🎵"
     life_fuel  = ["Ferrari 🏎️", "Food 🍕", "Journaling 📓", "Dancing 💃"]
@@ -94,9 +94,7 @@ class Soumili:
  
 ## 🏆 Achievements & Highlights
  
-- 🌸 **GirlScript Summer of Code 2025** — Selected Contributor
-- 🇮🇳 **Smart India Hackathon (SIH)** — National Level Participant
-- 🏥 **Johns Hopkins Hackathon** — International Participant
+- 🌸 **GirlScript Summer of Code 2026** — Selected Contributor
 - 📣 **Mood Indigo, IIT Bombay** — PR Team Member
 - 🐝 **Spell Bee** — District 3rd Place & State Top 50
 - 🎭 **Fine Arts Club, VIT Bhopal** — Core Member, PR Team
