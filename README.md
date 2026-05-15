@@ -94,6 +94,7 @@ I'm looking for **internships and collaborations** where I can bring my skills t
 | 📊 MATLAB Onramp | MathWorks |
 | 🧠 Applied Machine Learning | Coursera — University of Michigan |
 | ☁️ Cloud Computing | NPTEL |
+| 🌐 IoT | NPTEL |
  
 ---
  
