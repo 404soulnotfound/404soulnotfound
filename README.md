@@ -19,7 +19,6 @@
   <a href="https://leetcode.com/u/tidha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=404soulnotfound&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" />
 </div>
 <br/>
 ---
@@ -47,7 +46,6 @@ class Soumili:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </div>
 ### AI / ML / Data Science
 <div>
