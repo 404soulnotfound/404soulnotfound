@@ -83,20 +83,9 @@ I'm looking for **internships and collaborations** where I can bring my skills t
 | 🐝 | **Spell Bee** — District 3rd & State Top 50 |
 | 🎭 | **Fine Arts Club, VIT Bhopal** — Core Member, PR Team |
 | 🥽 | **Metaverse Club, VIT Bhopal** — Core Member, PR Team |
- 
+  
 ---
- 
-### 📜 certifications
- 
-| Certificate | Issuer |
-|---|---|
-| 🌐 Networking Basics | Cisco |
-| 📊 MATLAB Onramp | MathWorks |
-| 🧠 Applied Machine Learning | Coursera — University of Michigan |
-| ☁️ Cloud Computing | NPTEL |
-| 🌐 IoT | NPTEL |
- 
----
+
  
 ### 🎵 not just a coder
  
