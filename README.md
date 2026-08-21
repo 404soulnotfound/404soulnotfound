@@ -80,7 +80,6 @@ I'm looking for **internships and collaborations** where I can bring my skills t
 | 🌸 | **GirlScript Summer of Code 2026** — Selected Contributor |
 | 🇮🇳 | **Smart India Hackathon (SIH)** — National Level Participant |
 | 📣 | **Mood Indigo, IIT Bombay** — PR Team Member |
-| 🐝 | **Spell Bee** — District 3rd & State Top 50 |
 | 🎭 | **Fine Arts Club, VIT Bhopal** — Core Member, PR Team |
 | 🥽 | **Metaverse Club, VIT Bhopal** — Core Member, PR Team |
   
