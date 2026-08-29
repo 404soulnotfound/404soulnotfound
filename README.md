@@ -55,23 +55,8 @@ I'm looking for **internships and collaborations** where I can bring my skills t
  
 ---
  
-### 📊 github stats
- 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=404soulnotfound&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=f72585&text_color=ffffff&bg_color=0d1117" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404soulnotfound&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=404soulnotfound&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f72585&currStreakLabel=ffffff" />
-</div>
----
- 
-### 🟡 leetcode stats
- 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/tidha?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=8&width=500" />
-</div>
----
+
+
  
 ### 🏆 highlights
  
