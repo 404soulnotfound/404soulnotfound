@@ -11,7 +11,7 @@
  
 ### 🧠 about me
  
-I'm a 3rd year BTech CSE student specialising in **AI & ML** at VIT Bhopal — passionate about turning raw data into real decisions. I work across **Machine Learning, Deep Learning, Computer Vision and NLP**, and I genuinely love the process of making machines smarter.
+I'm a 3rd year BTech CSE student specialising in **AI & ML** at VIT — passionate about turning raw data into real decisions. I work across **Machine Learning, Deep Learning, Computer Vision and NLP**, and I genuinely love the process of making machines smarter.
  
 Currently contributing to open source through **GirlScript Summer of Code 2026** 🌸 — learning, building and growing every day.
  
