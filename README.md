@@ -25,9 +25,6 @@
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=404soulnotfound&bg_color=0d1117&color=7ab648&line=7ab648&point=f2ead8&area=true&hide_border=true" />
-
 </div>
 
 ---
