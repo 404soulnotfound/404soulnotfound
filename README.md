@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1000&color=7AB648&center=true&vCenter=true&width=700&lines=4th+year+CSE+%28AI+%26+ML%29+%40+VIT+%F0%9F%8E%93;building+things+that+make+machines+smarter+%F0%9F%A4%96;254%2B+leetcode+problems+%E2%80%94+send+help;training+models+%F0%9F%A4%96+debugging+life+%F0%9F%8C%99;forza+ferrari+%F0%9F%8F%8E%EF%B8%8F+always+and+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1000&color=7AB648&center=true&vCenter=true&width=700&lines=4th+year+CSE+%28AI+%26+ML%29+%40+VIT+%F0%9F%8E%93;building+things+that+make+machines+smarter+%F0%9F%A4%96;100%2B+leetcode+problems+%E2%80%94+send+help;training+models+%F0%9F%A4%96+debugging+life+%F0%9F%8C%99;forza+ferrari+%F0%9F%8F%8E%EF%B8%8F+always+and+forever" alt="Typing SVG" />
 </a>
 
 <br/><br/>
