@@ -36,7 +36,7 @@ i'm a 4th year CSE student at VIT, specialising in AI & ML.
 
 i build things that make machines smarter — models that predict, systems that detect, assistants that think. right now i'm deep into **computer vision**, **nlp**, **rag pipelines** and whatever rabbit hole curiosity pulls me into next.
 
-i also have 254+ leetcode problems solved, which either says something about my dedication or my sleep schedule. probably both.
+i also have 100+ leetcode problems solved, which either says something about my dedication or my sleep schedule. probably both.
 
 ---
 
